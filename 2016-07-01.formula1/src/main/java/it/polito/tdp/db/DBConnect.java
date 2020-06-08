@@ -8,7 +8,7 @@ import com.zaxxer.hikari.HikariDataSource;
 
 public class DBConnect {
 
-	private static String jdbcURL = "jdbc:mysql://localhost/artsmia";
+	private static String jdbcURL = "jdbc:mysql://localhost/formula1";
 
 	private static HikariDataSource ds = null;
 
